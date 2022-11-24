@@ -8,7 +8,6 @@
 Название          | Статус | Ссылка
 ------------------|--------|--------
 ДЗ №1             | 🟢    | <a href="https://github.com/pauker-vielleicht/wasp_homework/tree/main/first_task">Перейти</a> 
-------------------|--------|--------
 Автопарк          | 🟡    | <a href="https://github.com/pauker-vielleicht/wasp_homework/tree/master/autopark">Перейти</a>
 
 **Статусы выполнения:** <br>
