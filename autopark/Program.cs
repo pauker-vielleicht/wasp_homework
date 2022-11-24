@@ -110,12 +110,14 @@ namespace example
             this.cars = cars;
         }
 
-        public void print()
+        public override string ToString()
         {
-            foreach(var el in cars)
+            string res = "";
+            foreach( var el in cars)
             {
-                Console.WriteLine(el);
+                res += el.ToString() +"\n";
             }
+            return res;
         }
     }
     class Program
@@ -130,7 +132,7 @@ namespace example
             cars.Add(nn);
             cars.Add(volvo);
             Autopark test = new Autopark("test", cars);
-            test.print();
+            Console.Write(test);
         }
     }
 }
