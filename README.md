@@ -9,6 +9,7 @@
 ------------------|--------|--------
 ДЗ №1             | 🟢    | <a href="https://github.com/pauker-vielleicht/wasp_homework/tree/main/first_task">Перейти</a> 
 Автопарк          | 🟢    | <a href="https://github.com/pauker-vielleicht/wasp_homework/tree/master/autopark">Перейти</a>
+Диски             | 🔴    | <a href="https://github.com/pauker-vielleicht/wasp_homework/tree/master/disk's">Перейти</a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
